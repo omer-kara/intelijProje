@@ -5,6 +5,7 @@ public class Class01 {
 
         System.out.println("Bugun hava gunesli");
 
+        //omer kodu
         System.out.println("Bugun hava yagisli");
 
 
